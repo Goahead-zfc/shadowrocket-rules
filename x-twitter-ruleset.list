@@ -1,16 +1,46 @@
 # X / Twitter - Shadowrocket RULE-SET
 
+# Core
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+
+# API / Login / OAuth
+DOMAIN-SUFFIX,api.x.com
+DOMAIN-SUFFIX,api.twitter.com
+DOMAIN-SUFFIX,mobile.twitter.com
+DOMAIN-SUFFIX,oauth.twitter.com
+DOMAIN-SUFFIX,syndication.twitter.com
+DOMAIN-SUFFIX,upload.twitter.com
+DOMAIN-SUFFIX,ton.twitter.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+
+# Media / CDN
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twimg.co
-DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,pbs.twimg.com
+DOMAIN-SUFFIX,abs.twimg.com
+DOMAIN-SUFFIX,video.twimg.com
+DOMAIN-SUFFIX,ton.twimg.com
+DOMAIN-SUFFIX,ma.twimg.com
+
+# Old Twitter / Related
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+
+# Grok / xAI
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Keyword fallback
 DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,twimg
+DOMAIN-KEYWORD,tweetdeck
+DOMAIN-KEYWORD,twttr
