@@ -1,0 +1,12 @@
+# Instagram / Threads - Shadowrocket RULE-SET
+# Covers web, mobile apps, media CDN and Threads.
+
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+
+# Meta-owned network (helps app media, calls and direct-IP connections)
+IP-ASN,32934,no-resolve

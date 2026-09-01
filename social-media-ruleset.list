@@ -1,0 +1,81 @@
+# Social Media Collection - Shadowrocket RULE-SET
+# Facebook, Messenger, Instagram, Threads, Discord, WhatsApp and X/Twitter.
+# Covers web and app traffic. Keep this RULE-SET above FINAL/MATCH rules.
+
+# Facebook / Messenger
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,facebook.design
+DOMAIN-SUFFIX,facebookbrand.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,facebookstudios.org
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbsbx.net
+DOMAIN-SUFFIX,fbinfra.net
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,msngr.com
+DOMAIN-SUFFIX,workplace.com
+DOMAIN-SUFFIX,workplacecdn.com
+
+# Instagram / Threads
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+
+# WhatsApp
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsappbrand.com
+DOMAIN-SUFFIX,wa.me
+
+# Discord
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.page.link
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discordstatus.com
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+
+# X / Twitter
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+
+# Meta-owned network: Facebook, Messenger, Instagram, Threads and WhatsApp
+IP-ASN,32934,no-resolve

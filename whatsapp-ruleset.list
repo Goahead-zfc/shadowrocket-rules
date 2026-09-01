@@ -1,0 +1,14 @@
+# WhatsApp - Shadowrocket RULE-SET
+# Covers web, mobile/desktop apps, API, media and calls.
+
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsappbrand.com
+DOMAIN-SUFFIX,wa.me
+
+# Shared Meta API used by WhatsApp login and app services
+DOMAIN,graph.facebook.com
+
+# Meta-owned network (helps app media, calls and direct-IP connections)
+IP-ASN,32934,no-resolve

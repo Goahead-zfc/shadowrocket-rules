@@ -1,0 +1,30 @@
+# Facebook / Messenger - Shadowrocket RULE-SET
+# Covers web, mobile apps, login, API, media and Meta network endpoints.
+
+# Facebook core
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,facebook.design
+DOMAIN-SUFFIX,facebookbrand.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,facebookstudios.org
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+
+# Media / CDN / app services
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbsbx.net
+DOMAIN-SUFFIX,fbinfra.net
+
+# Messenger / Workplace
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,msngr.com
+DOMAIN-SUFFIX,workplace.com
+DOMAIN-SUFFIX,workplacecdn.com
+
+# Meta-owned network (helps app media, calls and direct-IP connections)
+IP-ASN,32934,no-resolve
