@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
 
 # API / Login / OAuth
+DOMAIN,grok.x.com
 DOMAIN-SUFFIX,api.x.com
 DOMAIN-SUFFIX,api.twitter.com
 DOMAIN-SUFFIX,mobile.twitter.com
@@ -34,10 +35,6 @@ DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,periscope.tv
-
-# Grok / xAI
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
 
 # Keyword fallback
 DOMAIN-KEYWORD,twitter
