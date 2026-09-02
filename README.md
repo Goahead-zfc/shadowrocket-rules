@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/social-med
 | Discord | `https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/discord-ruleset.list` |
 | WhatsApp | `https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/whatsapp-ruleset.list` |
 | X / Twitter | `https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/x-twitter-ruleset.list` |
+| YouTube | `https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/refs/heads/main/youtube-ruleset.list` |
 
 ## Shadowrocket 使用方法
 
@@ -35,7 +36,7 @@ RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/s
 整理后的 Shadowrocket 完整配置：
 
 ```text
-https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/refs/heads/main/goahead.conf
+https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/refs/heads/main/goahead-shadowrocket.conf
 ```
 
 在 Shadowrocket 中通过“从 URL 下载配置”添加这个地址。配置里的 `update-url` 已指向同一个 GitHub Raw 文件，因此多台设备都使用这个链接时，可以从同一份云端配置更新。

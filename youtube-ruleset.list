@@ -1,0 +1,31 @@
+# YouTube - Shadowrocket RULE-SET
+# Core web/app/media domains plus iOS API endpoints observed in real traffic.
+
+# YouTube core
+DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,yt.be
+
+# Video / images / CDN
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,yt3.ggpht.com
+
+# YouTube iOS API and account endpoints
+DOMAIN,youtubei.googleapis.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,oauthaccountmanager.googleapis.com
+DOMAIN,accountcapabilities-pa.googleapis.com
+DOMAIN,notifications-pa.googleapis.com
+DOMAIN,growth-pa.googleapis.com
+
+# Auxiliary endpoints observed while the YouTube iOS app starts
+DOMAIN,clients3.google.com
+DOMAIN,suggestqueries.google.com
