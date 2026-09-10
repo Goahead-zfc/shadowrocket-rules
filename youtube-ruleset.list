@@ -28,4 +28,6 @@ DOMAIN,growth-pa.googleapis.com
 
 # Auxiliary endpoints observed while the YouTube iOS app starts
 DOMAIN,clients3.google.com
+DOMAIN,play.googleapis.com
 DOMAIN,suggestqueries.google.com
+DOMAIN,www.google.com
