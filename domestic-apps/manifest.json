@@ -1,0 +1,1880 @@
+{
+  "schema": 1,
+  "date": "2026-10-26",
+  "description": "截图国内 App 直连；公开源当前可获得规则的受控合并，不保证客户端全部流量已覆盖。",
+  "sources": [
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-JingDong-JingDong",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-JingDong-JingDong",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-AliPay-AliPay",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AliPay/AliPay.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-AliPay-AliPay",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-XianYu-XianYu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XianYu/XianYu.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-XianYu-XianYu",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-Pinduoduo-Pinduoduo",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-Pinduoduo-Pinduoduo",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-MeiTuan-MeiTuan",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/MeiTuan/MeiTuan.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-MeiTuan-MeiTuan",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-GaoDe-GaoDe",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/GaoDe/GaoDe.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-GaoDe-GaoDe",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-XiaoHongShu-XiaoHongShu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-XiaoHongShu-XiaoHongShu",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-UC-UC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/UC/UC.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-UC-UC",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-NetEaseMusic-NetEaseMusic",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-NetEaseMusic-NetEaseMusic",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-DouYin-DouYin",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-DouYin-DouYin",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-BiliBili-BiliBili",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-BiliBili-BiliBili",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-WeChat-WeChat",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-WeChat-WeChat",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-WeType-WeType",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeType/WeType.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-WeType-WeType",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-DingTalk-DingTalk",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DingTalk/DingTalk.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-DingTalk-DingTalk",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-XiaoMi-XiaoMi",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoMi/XiaoMi.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-XiaoMi-XiaoMi",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-BOC-BOC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BOC/BOC.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-BOC-BOC",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-ChinaMobile-ChinaMobile",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMobile/ChinaMobile.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-ChinaMobile-ChinaMobile",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-ByteDance-ByteDance",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-ByteDance-ByteDance",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-Geely-Geely",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Geely/Geely.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-Geely-Geely",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "blackmatrix7-rule-Shadowrocket-Alibaba-Alibaba_Domain",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Alibaba/Alibaba_Domain.list",
+      "format": "domain-list",
+      "cache": "domestic-apps/upstream/blackmatrix7-rule-Shadowrocket-Alibaba-Alibaba_Domain",
+      "license": "GPL-2.0-only"
+    },
+    {
+      "id": "v2fly-data-jd",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/jd",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-jd",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-alibaba",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/alibaba",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-alibaba",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-pinduoduo",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/pinduoduo",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-pinduoduo",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-meituan",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/meituan",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-meituan",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-amap",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/amap",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-amap",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-xiaohongshu",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xiaohongshu",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-xiaohongshu",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-uc",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/uc",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-uc",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-doubao",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/doubao",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-doubao",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-douyin",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/douyin",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-douyin",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-fqnovel",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/fqnovel",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-fqnovel",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-bilibili",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/bilibili",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-bilibili",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-bilibili-cdn",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/bilibili-cdn",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-bilibili-cdn",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-tencent",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/tencent",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-tencent",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-dingtalk",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/dingtalk",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-dingtalk",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-xiaomi",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xiaomi",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-xiaomi",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-xiaomi-iot",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xiaomi-iot",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-xiaomi-iot",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-boc",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/boc",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-boc",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-chinamobile",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/chinamobile",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-chinamobile",
+      "license": "MIT"
+    },
+    {
+      "id": "v2fly-data-category-securities-cn",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-securities-cn",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-category-securities-cn",
+      "license": "MIT"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-JD",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JD.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-JD",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-Alibaba",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-Alibaba",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-PDD",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PDD.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-PDD",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-NetEaseMusic",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-NetEaseMusic",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-Bilibili",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-Bilibili",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-Wechat",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-Wechat",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-MI",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-MI",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "ACL4SSR-Clash-Ruleset-ChinaOneKeyLogin",
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ChinaOneKeyLogin.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/ACL4SSR-Clash-Ruleset-ChinaOneKeyLogin",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-JingDong",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/JingDong.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-JingDong",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-Alibaba",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-Alibaba",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-AliPay",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AliPay.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-AliPay",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-XianYu",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/XianYu.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-XianYu",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-MeiTuan",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/MeiTuan.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-MeiTuan",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-GaoDe",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/GaoDe.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-GaoDe",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-UC",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/UC.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-UC",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-NeteaseMusic",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/NeteaseMusic.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-NeteaseMusic",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-BiliBili",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-BiliBili",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-DingTalk",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DingTalk.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-DingTalk",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-XiaoMi",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-XiaoMi",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-BOC",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BOC.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-BOC",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-ChinaMobile",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ChinaMobile.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-ChinaMobile",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-ByteDance",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-ByteDance",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-Tencent",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-Tencent",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "LM-Firefly-Domestic-Services-Geely",
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Geely.list",
+      "format": "shadowrocket",
+      "cache": "domestic-apps/upstream/LM-Firefly-Domestic-Services-Geely",
+      "license": "upstream-not-specified"
+    },
+    {
+      "id": "v2fly-data-tencent-games",
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/tencent-games",
+      "format": "v2fly",
+      "cache": "domestic-apps/upstream/v2fly-data-tencent-games",
+      "license": "MIT"
+    }
+  ],
+  "groups": [
+    {
+      "id": "jd",
+      "apps": [
+        "京东"
+      ],
+      "coverage": "community",
+      "note": "含商城、支付、图片和客户端 API；排除集团泛云服务，未把京东云全域加入直连。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-JingDong-JingDong",
+          "excluded_domain_prefixes": [
+            "cloud",
+            "jcloud",
+            "jdcloud"
+          ]
+        },
+        {
+          "source": "v2fly-data-jd",
+          "excluded_domain_prefixes": [
+            "cloud",
+            "jcloud",
+            "jdcloud"
+          ]
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-JD",
+          "excluded_domain_prefixes": [
+            "cloud",
+            "jcloud",
+            "jdcloud"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-JingDong",
+          "excluded_domain_prefixes": [
+            "cloud",
+            "jcloud",
+            "jdcloud"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "taobao",
+      "apps": [
+        "淘宝"
+      ],
+      "coverage": "community",
+      "note": "从阿里总表筛出淘宝、天猫及客户端公共域名；不整包直连阿里云。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-Alibaba-Alibaba_Domain",
+          "only_suffixes": [
+            "taobao",
+            "tmall",
+            "taobao.com",
+            "taobao.net",
+            "taobao.org",
+            "taobaocdn.com",
+            "taotian.com",
+            "tb.cn",
+            "tbcache.com",
+            "tbcdn.cn",
+            "tbcdn.com",
+            "tburl.in",
+            "tmall.com",
+            "tmalltv.com",
+            "alicdn.com",
+            "aliimg.com",
+            "aliapp.org",
+            "alibabausercontent.com",
+            "alipayobjects.com",
+            "mmstat.com",
+            "alibabachengdun.com",
+            "alibabachengdun.net",
+            "hzchengdun.com",
+            "hzchengdun.net",
+            "alimei.com",
+            "etao.com",
+            "juhuasuan.com",
+            "pailitao.com",
+            "cainiao.com",
+            "cainiao.com.cn",
+            "guoguo-app.com",
+            "cainiaoyizhan.com",
+            "cnzz.com",
+            "95095.com"
+          ]
+        },
+        {
+          "source": "v2fly-data-alibaba",
+          "only_suffixes": [
+            "taobao",
+            "tmall",
+            "taobao.com",
+            "taobao.net",
+            "taobao.org",
+            "taobaocdn.com",
+            "taotian.com",
+            "tb.cn",
+            "tbcache.com",
+            "tbcdn.cn",
+            "tbcdn.com",
+            "tburl.in",
+            "tmall.com",
+            "tmalltv.com",
+            "alicdn.com",
+            "aliimg.com",
+            "aliapp.org",
+            "alibabausercontent.com",
+            "alipayobjects.com",
+            "mmstat.com",
+            "alibabachengdun.com",
+            "alibabachengdun.net",
+            "hzchengdun.com",
+            "hzchengdun.net",
+            "alimei.com",
+            "etao.com",
+            "juhuasuan.com",
+            "pailitao.com",
+            "cainiao.com",
+            "cainiao.com.cn",
+            "guoguo-app.com",
+            "cainiaoyizhan.com",
+            "cnzz.com",
+            "95095.com"
+          ]
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-Alibaba",
+          "only_suffixes": [
+            "taobao",
+            "tmall",
+            "taobao.com",
+            "taobao.net",
+            "taobao.org",
+            "taobaocdn.com",
+            "taotian.com",
+            "tb.cn",
+            "tbcache.com",
+            "tbcdn.cn",
+            "tbcdn.com",
+            "tburl.in",
+            "tmall.com",
+            "tmalltv.com",
+            "alicdn.com",
+            "aliimg.com",
+            "aliapp.org",
+            "alibabausercontent.com",
+            "alipayobjects.com",
+            "mmstat.com",
+            "alibabachengdun.com",
+            "alibabachengdun.net",
+            "hzchengdun.com",
+            "hzchengdun.net",
+            "alimei.com",
+            "etao.com",
+            "juhuasuan.com",
+            "pailitao.com",
+            "cainiao.com",
+            "cainiao.com.cn",
+            "guoguo-app.com",
+            "cainiaoyizhan.com",
+            "cnzz.com",
+            "95095.com"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-Alibaba",
+          "only_suffixes": [
+            "taobao",
+            "tmall",
+            "taobao.com",
+            "taobao.net",
+            "taobao.org",
+            "taobaocdn.com",
+            "taotian.com",
+            "tb.cn",
+            "tbcache.com",
+            "tbcdn.cn",
+            "tbcdn.com",
+            "tburl.in",
+            "tmall.com",
+            "tmalltv.com",
+            "alicdn.com",
+            "aliimg.com",
+            "aliapp.org",
+            "alibabausercontent.com",
+            "alipayobjects.com",
+            "mmstat.com",
+            "alibabachengdun.com",
+            "alibabachengdun.net",
+            "hzchengdun.com",
+            "hzchengdun.net",
+            "alimei.com",
+            "etao.com",
+            "juhuasuan.com",
+            "pailitao.com",
+            "cainiao.com",
+            "cainiao.com.cn",
+            "guoguo-app.com",
+            "cainiaoyizhan.com",
+            "cnzz.com",
+            "95095.com"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "pinduoduo",
+      "apps": [
+        "拼多多"
+      ],
+      "coverage": "community",
+      "note": "含 API、即时消息、用户内容与图片 CDN。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-Pinduoduo-Pinduoduo"
+        },
+        {
+          "source": "v2fly-data-pinduoduo"
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-PDD"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "xianyu",
+      "apps": [
+        "闲鱼"
+      ],
+      "coverage": "community",
+      "note": "闲鱼独立域名加淘宝共享登录、图片服务；共享部分由淘宝组覆盖。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-XianYu-XianYu"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-XianYu"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "meituan",
+      "apps": [
+        "美团"
+      ],
+      "coverage": "community",
+      "note": "包括美团、大众点评、图片和配送接口。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-MeiTuan-MeiTuan"
+        },
+        {
+          "source": "v2fly-data-meituan"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-MeiTuan"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "alipay",
+      "apps": [
+        "支付宝"
+      ],
+      "coverage": "community",
+      "note": "支付、登录、安全校验与资源域名；不覆盖支付宝香港。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-AliPay-AliPay"
+        },
+        {
+          "source": "v2fly-data-alibaba",
+          "only_suffixes": [
+            "alipay",
+            "alipay.cn",
+            "alipay.com",
+            "alipay.com.cn",
+            "alipaydns.com",
+            "alipayobjects.com",
+            "alipaylog.com",
+            "antfin.com",
+            "antgroup.com",
+            "antgroup-inc.cn",
+            "antfortune.com",
+            "fund123.cn",
+            "alipay-eco.com"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-AliPay"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "amap",
+      "apps": [
+        "高德地图"
+      ],
+      "coverage": "community",
+      "note": "定位、导航、地图瓦片与客户端接口。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-GaoDe-GaoDe"
+        },
+        {
+          "source": "v2fly-data-amap"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-GaoDe"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "xiaohongshu",
+      "apps": [
+        "小红书"
+      ],
+      "coverage": "community",
+      "note": "含笔记图片、视频、短链及风控服务；社区总表包含第三方风控域名。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-XiaoHongShu-XiaoHongShu"
+        },
+        {
+          "source": "v2fly-data-xiaohongshu"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "quark",
+      "apps": [
+        "夸克"
+      ],
+      "coverage": "community",
+      "note": "夸克与 UC 客户端共享服务；浏览器访问的第三方站点仍按站点分流。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-UC-UC"
+        },
+        {
+          "source": "v2fly-data-uc"
+        },
+        {
+          "source": "v2fly-data-alibaba",
+          "only_suffixes": [
+            "quark.cn",
+            "myquark.cn",
+            "cueme.cn"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-UC"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "netease-music",
+      "apps": [
+        "网易云音乐"
+      ],
+      "coverage": "community",
+      "note": "含 music.163.com 子域、专用视频节点与公开 IP 补充；不是仅官网。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-NetEaseMusic-NetEaseMusic"
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-NetEaseMusic"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-NeteaseMusic"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "douyin",
+      "apps": [
+        "抖音"
+      ],
+      "coverage": "community",
+      "note": "抖音国内版 API、视频、图片和直播；不加入 TikTok 海外域名。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-DouYin-DouYin"
+        },
+        {
+          "source": "v2fly-data-douyin"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "bilibili",
+      "apps": [
+        "哔哩哔哩"
+      ],
+      "coverage": "community",
+      "note": "含 API、直播、音视频、第三方 CDN 专用主机与 IP；剔除海外版独立域名。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-BiliBili-BiliBili"
+        },
+        {
+          "source": "v2fly-data-bilibili"
+        },
+        {
+          "source": "v2fly-data-bilibili-cdn"
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-Bilibili"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-BiliBili"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "qq",
+      "apps": [
+        "QQ"
+      ],
+      "coverage": "community",
+      "note": "腾讯公共域名同时供微信、QQ、游戏使用；不整包直连腾讯云或腾讯 ASN。",
+      "uses": [
+        {
+          "source": "v2fly-data-tencent",
+          "only_suffixes": [
+            "qq.com",
+            "qq.com.cn",
+            "qq.cn.com",
+            "imqq.com",
+            "idqqimg.com",
+            "qpic.cn",
+            "qlogo.cn",
+            "gtimg.com",
+            "gtimg.cn",
+            "gtimg.com.cn",
+            "qzone.com",
+            "url.cn",
+            "qq.wang",
+            "tenpay.com"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-Tencent",
+          "only_suffixes": [
+            "qq.com",
+            "qq.com.cn",
+            "qq.cn.com",
+            "imqq.com",
+            "idqqimg.com",
+            "qpic.cn",
+            "qlogo.cn",
+            "gtimg.com",
+            "gtimg.cn",
+            "gtimg.com.cn",
+            "qzone.com",
+            "url.cn",
+            "qq.wang",
+            "tenpay.com"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "dingtalk",
+      "apps": [
+        "钉钉"
+      ],
+      "coverage": "community",
+      "note": "含消息、登录、文件、会议域名；实时通话 P2P 目的 IP 需按日志补充。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-DingTalk-DingTalk"
+        },
+        {
+          "source": "v2fly-data-dingtalk"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-DingTalk"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "wechat",
+      "apps": [
+        "微信"
+      ],
+      "coverage": "community",
+      "note": "含消息、媒体、支付和部分直接 IP；微信小程序的第三方域名不等于微信域名。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-WeChat-WeChat"
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-Wechat"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "wetype",
+      "apps": [
+        "微信输入法"
+      ],
+      "coverage": "community",
+      "note": "专用服务 wetype.weixin.qq.com，腾讯公共基础设施由 QQ、微信组补充。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-WeType-WeType"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "wecom",
+      "apps": [
+        "企业微信"
+      ],
+      "coverage": "partial",
+      "note": "企业微信客户端主域与腾讯共享域名；未找到独立且完整的官方端点清单。",
+      "uses": [
+        {
+          "source": "v2fly-data-tencent",
+          "only_suffixes": [
+            "qq.com",
+            "qpic.cn",
+            "qlogo.cn",
+            "gtimg.com",
+            "gtimg.cn"
+          ]
+        }
+      ],
+      "rules": [
+        "DOMAIN-SUFFIX,work.weixin.qq.com"
+      ],
+      "evidence": [
+        "https://work.weixin.qq.com/"
+      ]
+    },
+    {
+      "id": "mijia",
+      "apps": [
+        "米家"
+      ],
+      "coverage": "community",
+      "note": "筛选小米账号、IoT API、MQTT、设备资源及智能家居商城域名；不整包导入小米金融/笔记/游戏和集团 IP。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-XiaoMi-XiaoMi",
+          "only_suffixes": [
+            "mi.com",
+            "mi.cn",
+            "mi.com.cn",
+            "xiaomi.com",
+            "xiaomi.net",
+            "xiaomi.cn",
+            "mijia.tech",
+            "miot-spec.org",
+            "mifile.cn",
+            "miwifi.com",
+            "miui.com",
+            "miui.cn",
+            "mgslb.com",
+            "mgslb.cn",
+            "mgslb.net",
+            "mgslb.org",
+            "mi-dun.com",
+            "mi-idc.com",
+            "mi-img.com",
+            "mi-img1.com",
+            "mi-img2.com",
+            "mi-img3.com",
+            "mi-img4.com",
+            "mi-img5.com",
+            "mi-cdn.com",
+            "mi-cache.com",
+            "mi-static.com",
+            "xiaomicache.com",
+            "mipush.com",
+            "mieco.net",
+            "xiaomicp.com",
+            "xiaomidns.cn",
+            "xiaomidns.com",
+            "xiaomidns.com.cn",
+            "xiaomidns.net",
+            "miyun.com",
+            "xiaomiyoupin.com",
+            "youpin.cn",
+            "youpin.com.cn",
+            "mijiayoupin.com",
+            "xiaoaisound.com",
+            "xiaoaiassist.com",
+            "xiaomixiaoai.com"
+          ]
+        },
+        {
+          "source": "v2fly-data-xiaomi",
+          "only_suffixes": [
+            "mi.com",
+            "mi.cn",
+            "mi.com.cn",
+            "xiaomi.com",
+            "xiaomi.net",
+            "xiaomi.cn",
+            "mijia.tech",
+            "miot-spec.org",
+            "mifile.cn",
+            "miwifi.com",
+            "miui.com",
+            "miui.cn",
+            "mgslb.com",
+            "mgslb.cn",
+            "mgslb.net",
+            "mgslb.org",
+            "mi-dun.com",
+            "mi-idc.com",
+            "mi-img.com",
+            "mi-img1.com",
+            "mi-img2.com",
+            "mi-img3.com",
+            "mi-img4.com",
+            "mi-img5.com",
+            "mi-cdn.com",
+            "mi-cache.com",
+            "mi-static.com",
+            "xiaomicache.com",
+            "mipush.com",
+            "mieco.net",
+            "xiaomicp.com",
+            "xiaomidns.cn",
+            "xiaomidns.com",
+            "xiaomidns.com.cn",
+            "xiaomidns.net",
+            "miyun.com",
+            "xiaomiyoupin.com",
+            "youpin.cn",
+            "youpin.com.cn",
+            "mijiayoupin.com",
+            "xiaoaisound.com",
+            "xiaoaiassist.com",
+            "xiaomixiaoai.com"
+          ]
+        },
+        {
+          "source": "v2fly-data-xiaomi-iot",
+          "only_suffixes": [
+            "mi.com",
+            "mi.cn",
+            "mi.com.cn",
+            "xiaomi.com",
+            "xiaomi.net",
+            "xiaomi.cn",
+            "mijia.tech",
+            "miot-spec.org",
+            "mifile.cn",
+            "miwifi.com",
+            "miui.com",
+            "miui.cn",
+            "mgslb.com",
+            "mgslb.cn",
+            "mgslb.net",
+            "mgslb.org",
+            "mi-dun.com",
+            "mi-idc.com",
+            "mi-img.com",
+            "mi-img1.com",
+            "mi-img2.com",
+            "mi-img3.com",
+            "mi-img4.com",
+            "mi-img5.com",
+            "mi-cdn.com",
+            "mi-cache.com",
+            "mi-static.com",
+            "xiaomicache.com",
+            "mipush.com",
+            "mieco.net",
+            "xiaomicp.com",
+            "xiaomidns.cn",
+            "xiaomidns.com",
+            "xiaomidns.com.cn",
+            "xiaomidns.net",
+            "miyun.com",
+            "xiaomiyoupin.com",
+            "youpin.cn",
+            "youpin.com.cn",
+            "mijiayoupin.com",
+            "xiaoaisound.com",
+            "xiaoaiassist.com",
+            "xiaomixiaoai.com"
+          ]
+        },
+        {
+          "source": "ACL4SSR-Clash-Ruleset-MI",
+          "only_suffixes": [
+            "mi.com",
+            "mi.cn",
+            "mi.com.cn",
+            "xiaomi.com",
+            "xiaomi.net",
+            "xiaomi.cn",
+            "mijia.tech",
+            "miot-spec.org",
+            "mifile.cn",
+            "miwifi.com",
+            "miui.com",
+            "miui.cn",
+            "mgslb.com",
+            "mgslb.cn",
+            "mgslb.net",
+            "mgslb.org",
+            "mi-dun.com",
+            "mi-idc.com",
+            "mi-img.com",
+            "mi-img1.com",
+            "mi-img2.com",
+            "mi-img3.com",
+            "mi-img4.com",
+            "mi-img5.com",
+            "mi-cdn.com",
+            "mi-cache.com",
+            "mi-static.com",
+            "xiaomicache.com",
+            "mipush.com",
+            "mieco.net",
+            "xiaomicp.com",
+            "xiaomidns.cn",
+            "xiaomidns.com",
+            "xiaomidns.com.cn",
+            "xiaomidns.net",
+            "miyun.com",
+            "xiaomiyoupin.com",
+            "youpin.cn",
+            "youpin.com.cn",
+            "mijiayoupin.com",
+            "xiaoaisound.com",
+            "xiaoaiassist.com",
+            "xiaomixiaoai.com"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-XiaoMi",
+          "only_suffixes": [
+            "mi.com",
+            "mi.cn",
+            "mi.com.cn",
+            "xiaomi.com",
+            "xiaomi.net",
+            "xiaomi.cn",
+            "mijia.tech",
+            "miot-spec.org",
+            "mifile.cn",
+            "miwifi.com",
+            "miui.com",
+            "miui.cn",
+            "mgslb.com",
+            "mgslb.cn",
+            "mgslb.net",
+            "mgslb.org",
+            "mi-dun.com",
+            "mi-idc.com",
+            "mi-img.com",
+            "mi-img1.com",
+            "mi-img2.com",
+            "mi-img3.com",
+            "mi-img4.com",
+            "mi-img5.com",
+            "mi-cdn.com",
+            "mi-cache.com",
+            "mi-static.com",
+            "xiaomicache.com",
+            "mipush.com",
+            "mieco.net",
+            "xiaomicp.com",
+            "xiaomidns.cn",
+            "xiaomidns.com",
+            "xiaomidns.com.cn",
+            "xiaomidns.net",
+            "miyun.com",
+            "xiaomiyoupin.com",
+            "youpin.cn",
+            "youpin.com.cn",
+            "mijiayoupin.com",
+            "xiaoaisound.com",
+            "xiaoaiassist.com",
+            "xiaomixiaoai.com"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "boc",
+      "apps": [
+        "中国银行"
+      ],
+      "coverage": "community",
+      "note": "使用中国银行公开域名表，剔除已标记的境外分支独立域名；交易直连 IP 未获官方完整清单。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-BOC-BOC"
+        },
+        {
+          "source": "v2fly-data-boc"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-BOC"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "china-mobile",
+      "apps": [
+        "中国移动"
+      ],
+      "coverage": "community",
+      "note": "含营业厅、认证、内容资源与公开专用 IP；不加入全运营商地址段。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-ChinaMobile-ChinaMobile"
+        },
+        {
+          "source": "v2fly-data-chinamobile"
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-ChinaMobile"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "doubao",
+      "apps": [
+        "豆包"
+      ],
+      "coverage": "community",
+      "note": "豆包、语音和资源域名；字节国内共享服务由公共组补充。",
+      "uses": [
+        {
+          "source": "v2fly-data-doubao"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "hongguo",
+      "apps": [
+        "红果短剧"
+      ],
+      "coverage": "partial",
+      "note": "App Store 官方协议指向 reading.snssdk.com；视频资源依赖番茄/字节国内共享 CDN。",
+      "uses": [
+        {
+          "source": "v2fly-data-fqnovel"
+        }
+      ],
+      "rules": [
+        "DOMAIN-SUFFIX,novelquickapp.com",
+        "DOMAIN-SUFFIX,hongguoduanju.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id6451407032",
+        "https://reading.snssdk.com/wap-hongguo/dr-privacy-v3.html"
+      ]
+    },
+    {
+      "id": "bytedance-cn-shared",
+      "apps": [
+        "抖音 / 豆包 / 红果共享服务"
+      ],
+      "coverage": "community",
+      "note": "仅选国内业务所用公共 API/CDN；共享域名仍可能被其他字节 App 使用，不能做到进程隔离。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-ByteDance-ByteDance",
+          "only_suffixes": [
+            "snssdk.com",
+            "pstatp.com",
+            "byteimg.com",
+            "byteimgc.com",
+            "bytedance.com",
+            "bytedance.net",
+            "bytedanceapi.com",
+            "bytednsdoc.com",
+            "bytecdn.cn",
+            "bytecdn.com",
+            "bytecdn.net",
+            "bytegoofy.com",
+            "bytegecko.com",
+            "bytegeckoext.com",
+            "bytetos.com",
+            "bytetcc.com",
+            "bytetstatic.com",
+            "bytetstatic.net",
+            "bytetos.com",
+            "zijieapi.com",
+            "zijieapi.cn",
+            "zijieapi.net",
+            "zijiecdn.com",
+            "zijiecdn.cn",
+            "zijiecdn.net",
+            "zijieimg.com",
+            "zijieimg.cn",
+            "zijieimg.net",
+            "zjcdn.com",
+            "zjbyte.com",
+            "zjbyte.cn",
+            "bdstatic.com",
+            "ibytedapm.com",
+            "ttwebview.com",
+            "volcvideo.com",
+            "vod.bytedance.com",
+            "tos-cn.com",
+            "doubo03.com"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-ByteDance",
+          "only_suffixes": [
+            "snssdk.com",
+            "pstatp.com",
+            "byteimg.com",
+            "byteimgc.com",
+            "bytedance.com",
+            "bytedance.net",
+            "bytedanceapi.com",
+            "bytednsdoc.com",
+            "bytecdn.cn",
+            "bytecdn.com",
+            "bytecdn.net",
+            "bytegoofy.com",
+            "bytegecko.com",
+            "bytegeckoext.com",
+            "bytetos.com",
+            "bytetcc.com",
+            "bytetstatic.com",
+            "bytetstatic.net",
+            "bytetos.com",
+            "zijieapi.com",
+            "zijieapi.cn",
+            "zijieapi.net",
+            "zijiecdn.com",
+            "zijiecdn.cn",
+            "zijiecdn.net",
+            "zijieimg.com",
+            "zijieimg.cn",
+            "zijieimg.net",
+            "zjcdn.com",
+            "zjbyte.com",
+            "zjbyte.cn",
+            "bdstatic.com",
+            "ibytedapm.com",
+            "ttwebview.com",
+            "volcvideo.com",
+            "vod.bytedance.com",
+            "tos-cn.com",
+            "doubo03.com"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "honor-of-kings",
+      "apps": [
+        "王者荣耀"
+      ],
+      "coverage": "partial",
+      "note": "已核对官方游戏入口及腾讯客户端 SDK 域名；动态 UDP 对局和 P2P IP 尚无完整公开清单，不能保证全局游戏加速流量直连。",
+      "uses": [
+        {
+          "source": "v2fly-data-tencent-games",
+          "only_suffixes": [
+            "gcloudsdk.com",
+            "gcloudcs.com",
+            "gcloudsvcs.com",
+            "gclouddolphin.com",
+            "tencent-gcloud.com",
+            "anticheatexpert.com"
+          ]
+        }
+      ],
+      "rules": [
+        "DOMAIN-SUFFIX,pvp.qq.com",
+        "DOMAIN-SUFFIX,game.qq.com",
+        "DOMAIN-SUFFIX,msdk.qq.com",
+        "DOMAIN-SUFFIX,igame.qq.com"
+      ],
+      "evidence": [
+        "https://pvp.qq.com/",
+        "https://github.com/v2fly/domain-list-community/blob/master/data/tencent-games"
+      ]
+    },
+    {
+      "id": "todesk",
+      "apps": [
+        "ToDesk"
+      ],
+      "coverage": "partial",
+      "note": "已确认官方服务主域；控制连接/中继在其子域时可命中，P2P 对端任意 IP 不可由固定域名规则穷举。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,todesk.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1519407428"
+      ]
+    },
+    {
+      "id": "ninebot",
+      "apps": [
+        "九号出行"
+      ],
+      "coverage": "partial",
+      "note": "已确认九号服务域名，覆盖其 API 子域；车辆云服务、固件下载和第三方地图仍需连接日志核验。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,ninebot.com",
+        "DOMAIN-SUFFIX,ninebot-link.com",
+        "DOMAIN-SUFFIX,segway-ninebot.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1458698038",
+        "https://hero.ninebot.com/",
+        "https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list"
+      ]
+    },
+    {
+      "id": "dreame",
+      "apps": [
+        "DREAME"
+      ],
+      "coverage": "partial",
+      "note": "追觅服务协议与公开客户端集成确认 dreame.tech 为服务域；MQTT、机器人连接随区域/机型变化，待真机核验。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,dreame.tech"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1564419343",
+        "https://protocol.dreame.tech/p2177/zh/general_privacyPolicy.html",
+        "https://github.com/Tasshack/dreame-vacuum/blob/master/custom_components/dreame_vacuum/dreame/protocol.py"
+      ]
+    },
+    {
+      "id": "lynkco",
+      "apps": [
+        "LynkCo / 领克"
+      ],
+      "coverage": "partial",
+      "note": "领克和公开车联网域名；不导入整个吉利/沃尔沃集团，远程车控第三方节点待日志核验。",
+      "uses": [
+        {
+          "source": "blackmatrix7-rule-Shadowrocket-Geely-Geely",
+          "only_suffixes": [
+            "lynkco.com.cn",
+            "lynkco-test.com",
+            "zjcarnet.com"
+          ]
+        },
+        {
+          "source": "LM-Firefly-Domestic-Services-Geely",
+          "only_suffixes": [
+            "lynkco.com.cn",
+            "lynkco-test.com",
+            "zjcarnet.com"
+          ]
+        }
+      ],
+      "rules": [
+        "DOMAIN-SUFFIX,lynkco.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1305517667",
+        "https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list"
+      ]
+    },
+    {
+      "id": "pixcake",
+      "apps": [
+        "像素蛋糕"
+      ],
+      "coverage": "partial",
+      "note": "官方 iOS 协议直接位于 api.pixcakeai.com，含下载域；其他上传桶、推理域尚无完整公开清单。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,pixcakeai.com",
+        "DOMAIN-SUFFIX,pixcakes.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id6743614900",
+        "https://api.pixcakeai.com/static/protocol/cake_privacy.html",
+        "https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list"
+      ]
+    },
+    {
+      "id": "jiangsu-renshe",
+      "apps": [
+        "江苏智慧人社"
+      ],
+      "coverage": "partial",
+      "note": "App Store 官方隐私政策位于 rs.jshrss.jiangsu.gov.cn/mobile/legal；覆盖该业务子树，电子社保卡/人脸核验供应商需日志核验。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,jshrss.jiangsu.gov.cn"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1463539099",
+        "https://rs.jshrss.jiangsu.gov.cn/mobile/legal"
+      ]
+    },
+    {
+      "id": "jiangsu-bank",
+      "apps": [
+        "江苏·农商行"
+      ],
+      "coverage": "partial",
+      "note": "截图为江苏农商行，非中国农业银行；官方域名与江苏农信域名，交易直连 IP 待日志补充。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,js96008.com",
+        "DOMAIN-SUFFIX,jsnx.net",
+        "DOMAIN-SUFFIX,jsnxs.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id555257605",
+        "http://www.js96008.com",
+        "https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list"
+      ]
+    },
+    {
+      "id": "huaan",
+      "apps": [
+        "华安基金"
+      ],
+      "coverage": "partial",
+      "note": "官方主域可覆盖下属交易/API 子域，但尚无完整公开交易 IP 清单。",
+      "uses": [
+        {
+          "source": "v2fly-data-category-securities-cn",
+          "only_suffixes": [
+            "huaan.com.cn"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id501236714",
+        "https://www.huaan.com.cn/"
+      ]
+    },
+    {
+      "id": "huabao",
+      "apps": [
+        "华宝智投"
+      ],
+      "coverage": "partial",
+      "note": "官方 App 说明确认 touker.com；同时覆盖华宝证券主域，行情直连 IP 待补。",
+      "uses": [
+        {
+          "source": "v2fly-data-category-securities-cn",
+          "only_suffixes": [
+            "cnhbstock.com"
+          ]
+        }
+      ],
+      "rules": [
+        "DOMAIN-SUFFIX,touker.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id993077954"
+      ]
+    },
+    {
+      "id": "ths",
+      "apps": [
+        "同花顺"
+      ],
+      "coverage": "partial",
+      "note": "官方 App 协议确认 10jqka.com.cn；补充公开 myhexin.com。动态行情 TCP/直连 IP 尚未真机核验。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,10jqka.com.cn",
+        "DOMAIN-SUFFIX,myhexin.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id303191318",
+        "https://m.10jqka.com.cn/",
+        "https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Shadowrocket/ChinaMax/ChinaMax_Domain.list"
+      ]
+    },
+    {
+      "id": "jd-wallet",
+      "apps": [
+        "京东钱包"
+      ],
+      "coverage": "community",
+      "note": "支付、网银和金融域名，京东公共 API 由京东组覆盖。",
+      "uses": [
+        {
+          "source": "v2fly-data-jd",
+          "only_suffixes": [
+            "jdpay.com",
+            "jdpaydns.com",
+            "wangyin.com",
+            "chinabank.com.cn",
+            "jdjinrong.com",
+            "jingdongjinrong.com",
+            "baitiao.com"
+          ]
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    },
+    {
+      "id": "es-file",
+      "apps": [
+        "ES 文件浏览器"
+      ],
+      "coverage": "partial",
+      "note": "官方 App 说明与协议可确认服务域，用户配置的 SMB/WebDAV/Google Drive/OneDrive 目的地分别分流，不能整 App 强制直连。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,estrongs.com",
+        "DOMAIN-SUFFIX,esfile.do-global.com",
+        "DOMAIN-SUFFIX,xdplt.com"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1441621965",
+        "https://page.xdplt.com/es/ESFileExplorerTermsofService.html"
+      ]
+    },
+    {
+      "id": "icost",
+      "apps": [
+        "iCost"
+      ],
+      "coverage": "partial",
+      "note": "官方帮助、隐私与客服域；账本 iCloud 同步沿用苹果/iCloud 原策略，不全局直连苹果域名。",
+      "uses": [],
+      "rules": [
+        "DOMAIN-SUFFIX,icostapp.com",
+        "DOMAIN-SUFFIX,quji.tech"
+      ],
+      "evidence": [
+        "https://apps.apple.com/cn/app/id1484262528",
+        "https://help.icostapp.com/guide/law/privacy.html"
+      ]
+    },
+    {
+      "id": "carrier-login",
+      "apps": [
+        "国内 App 共用一键登录"
+      ],
+      "coverage": "community",
+      "note": "仅列运营商一键登录端点；第三方 SDK 共享域名也会影响其他使用该 SDK 的 App。",
+      "uses": [
+        {
+          "source": "ACL4SSR-Clash-Ruleset-ChinaOneKeyLogin"
+        }
+      ],
+      "rules": [],
+      "evidence": []
+    }
+  ],
+  "excluded_apps": [
+    {
+      "apps": [
+        "HHJ"
+      ],
+      "reason": "用户明确不需要。"
+    },
+    {
+      "apps": [
+        "Hypic",
+        "Xmind",
+        "Chatbox"
+      ],
+      "reason": "按用户选择保留原有分流，不因国内公司出品就强制境外服务直连。"
+    },
+    {
+      "apps": [
+        "汇丰香港",
+        "欧易"
+      ],
+      "reason": "香港/境外金融服务保留现有分流；配置已有欧易直连规则不在本次修改范围。"
+    },
+    {
+      "apps": [
+        "Picsew",
+        "SenPlayer",
+        "LocalSend"
+      ],
+      "reason": "本地处理/局域网传输或用户自行指定媒体服务器，未找到需强制直连的已确认国内客户端服务；现有 LAN 规则继续适用。"
+    },
+    {
+      "apps": [
+        "Typeless"
+      ],
+      "reason": "未确认其依赖国内服务，不强制直连。"
+    },
+    {
+      "apps": [
+        "Instagram",
+        "Facebook",
+        "WhatsApp",
+        "X",
+        "Telegram",
+        "TikTok",
+        "YouTube",
+        "Gemini",
+        "ChatGPT",
+        "Grok",
+        "Notion",
+        "Unsplash",
+        "Lightroom",
+        "Chrome",
+        "Windows",
+        "AdGuard",
+        "Shadowrocket",
+        "TestFlight"
+      ],
+      "reason": "境外服务、系统/浏览器/代理工具不属于国内服务合集；保持原有分流。"
+    },
+    {
+      "apps": [
+        "电话",
+        "信息",
+        "Safari"
+      ],
+      "reason": "系统电话/短信不以普通 App 域名规则处理；Safari 按所访问站点分流。"
+    }
+  ],
+  "blocked_suffixes": [
+    "tiktok.com",
+    "tiktokv.com",
+    "tiktokcdn.com",
+    "tiktokcdn-us.com",
+    "tiktokcdn-eu.com",
+    "tiktokapi.com",
+    "musical.ly",
+    "muscdn.com",
+    "byteoversea.com",
+    "byteoversea.net",
+    "ibytedtos.com",
+    "ibyteimg.com",
+    "byteintlapi.com",
+    "byteintl.net",
+    "bytedapm.com",
+    "ttwstatic.com",
+    "ttwebview.net",
+    "capcut.com",
+    "bilibili.tv",
+    "biliintl.com",
+    "biliintl.co",
+    "bilibili.co",
+    "dreamcast.hk",
+    "bstarstatic.com",
+    "bytedance.map.fastly.net",
+    "bochk.com",
+    "bochkonline.com",
+    "bocaviation.com",
+    "bocigroup.com",
+    "tencent.com.hk",
+    "tencent.co.id",
+    "wetv.vip",
+    "wetvinfo.com",
+    "amazonaws.com",
+    "cloudfront.net",
+    "aliyuncs.com",
+    "aliyun.com",
+    "alibabacloud.com",
+    "myqcloud.com",
+    "qcloud.com",
+    "tencent-cloud.net",
+    "akamaized.net"
+  ],
+  "blocked_exact": [
+    "p-bstarstatic.akamaized.net",
+    "upos-bstar-mirrorakam.akamaized.net",
+    "upos-bstar1-mirrorakam.akamaized.net"
+  ],
+  "allowed_shared_cdn_hosts": [
+    "upos-hz-mirrorakam.akamaized.net"
+  ]
+}

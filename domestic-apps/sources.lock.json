@@ -1,0 +1,261 @@
+{
+  "fetched_on": "2026-10-26",
+  "sources": {
+    "ACL4SSR-Clash-Ruleset-Alibaba": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Alibaba.list",
+      "sha256": "21bbf9777b478977576dd584a56e4e306a4903a00d478a14e4b907ba7c68b43b"
+    },
+    "ACL4SSR-Clash-Ruleset-Bilibili": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list",
+      "sha256": "3d111a3c69cb332cdec9c6283acbc9e0c17a62cc25abf43a3390e1667c6861dc"
+    },
+    "ACL4SSR-Clash-Ruleset-ChinaOneKeyLogin": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ChinaOneKeyLogin.list",
+      "sha256": "0d1597bc73081c7bc7d336a9de702522541a0988dbb4313f3e8c843985873615"
+    },
+    "ACL4SSR-Clash-Ruleset-JD": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JD.list",
+      "sha256": "1ce12d4d537d8261244f97e83ef3bb6cd2d8347e3aa90316ec31b5d99ca644c0"
+    },
+    "ACL4SSR-Clash-Ruleset-MI": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list",
+      "sha256": "46725cd07d7ef661dabadff86dce61b6d335ee86d25ec5b0c8a6dd44c90c7284"
+    },
+    "ACL4SSR-Clash-Ruleset-NetEaseMusic": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list",
+      "sha256": "8254e2518082103b7b3f88063562cefc3e04350b74aa411aad0ee4a66e8a9338"
+    },
+    "ACL4SSR-Clash-Ruleset-PDD": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PDD.list",
+      "sha256": "08fac042332864ac782f25472a9e9aeabe68e403f8a00fb2068a9d230ba0daec"
+    },
+    "ACL4SSR-Clash-Ruleset-Wechat": {
+      "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list",
+      "sha256": "628de7ef05a04297f3f68897a40655145c5e7f5772064d1671d85ec3e6c858fa"
+    },
+    "LM-Firefly-Domestic-Services-AliPay": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/AliPay.list",
+      "sha256": "08dd3832ec59e818be97c087c5679b986adae6652bdabaf403c2019b1c73261d"
+    },
+    "LM-Firefly-Domestic-Services-Alibaba": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list",
+      "sha256": "a4486d760d7e946c75b63f09adc9b9caa13bea9845cc7e62350c0cc281f215c3"
+    },
+    "LM-Firefly-Domestic-Services-BOC": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BOC.list",
+      "sha256": "d1a362db5b42c5320e537449b30bc0b22129f407c7a325333d895fdda72b4b44"
+    },
+    "LM-Firefly-Domestic-Services-BiliBili": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list",
+      "sha256": "1897e2fdd1f0fce344c7b2fc81dc56a42fff345dce2b33769b23eb1f436254d7"
+    },
+    "LM-Firefly-Domestic-Services-ByteDance": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ByteDance.list",
+      "sha256": "76c5cb1654604705847f1280e8320a503eba26d0416bd220cb5a6ee72eaf626b"
+    },
+    "LM-Firefly-Domestic-Services-ChinaMobile": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ChinaMobile.list",
+      "sha256": "eef0655675ba594d2430205c18891c01868d2c908b4519b5d118167bc260f7d5"
+    },
+    "LM-Firefly-Domestic-Services-DingTalk": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DingTalk.list",
+      "sha256": "c9be8a3c049785bb11fbc4e9d844040d612b71bde3ec43d436d18c8aba0f9c97"
+    },
+    "LM-Firefly-Domestic-Services-GaoDe": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/GaoDe.list",
+      "sha256": "63917e4215b64af7fb4859341ff2e22be55e54bf87390044ab60f83eaadb5b43"
+    },
+    "LM-Firefly-Domestic-Services-Geely": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Geely.list",
+      "sha256": "397d360a43d4e318932bf134c4fdcc7c56356c7b21f51fe4884dd737e846b529"
+    },
+    "LM-Firefly-Domestic-Services-JingDong": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/JingDong.list",
+      "sha256": "b76f27f46f8540f5cf72887820d833799162c9a9738064dc26decd3d4029e141"
+    },
+    "LM-Firefly-Domestic-Services-MeiTuan": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/MeiTuan.list",
+      "sha256": "a827de69031bfc7a296d6cd4d68df85762a79f026b64ac7256ab20d55410c5ee"
+    },
+    "LM-Firefly-Domestic-Services-NeteaseMusic": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/NeteaseMusic.list",
+      "sha256": "3ccc8169de9a59591ed9d77c79f1f4552b5f0f5e467b0f0c4b3092f69b55908c"
+    },
+    "LM-Firefly-Domestic-Services-Tencent": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list",
+      "sha256": "b0251b8c15dee9d03eb8f71bd8d060f74a4a2968ef73deae4153b2325c8f9f4f"
+    },
+    "LM-Firefly-Domestic-Services-UC": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/UC.list",
+      "sha256": "62c2e1c970abe3a890a7f6d27f146694eea93f91448dc78da729a5714f83fa75"
+    },
+    "LM-Firefly-Domestic-Services-XianYu": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/XianYu.list",
+      "sha256": "beea5cc59ba85f2effc3672f28e8fb7f8c1b2539d8e3077f77c25ceaf07af663"
+    },
+    "LM-Firefly-Domestic-Services-XiaoMi": {
+      "url": "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list",
+      "sha256": "1f9476b91315832d567e0abe10f54f7e073740e5134ad1cc06f1e4df8c5d0b54"
+    },
+    "blackmatrix7-rule-Shadowrocket-AliPay-AliPay": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AliPay/AliPay.list",
+      "sha256": "23d7ca5404f4795d485b4ea700f45e1d94f2dbf0f2871eeca5298cfce81ff5be"
+    },
+    "blackmatrix7-rule-Shadowrocket-Alibaba-Alibaba_Domain": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Alibaba/Alibaba_Domain.list",
+      "sha256": "756e22a1b72ea54d7baec95187127c11df59b4af95d242661d7957ebb2024a5a"
+    },
+    "blackmatrix7-rule-Shadowrocket-BOC-BOC": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BOC/BOC.list",
+      "sha256": "728311dda26e89a70d3157aa79c7fb3c9b186fb7a34131058ec53d7761c49c22"
+    },
+    "blackmatrix7-rule-Shadowrocket-BiliBili-BiliBili": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list",
+      "sha256": "9b22a7bdf97792346bf480771841b6cd1097ec7ad034b34528c14f3798107854"
+    },
+    "blackmatrix7-rule-Shadowrocket-ByteDance-ByteDance": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list",
+      "sha256": "063f28dd27c03ee361440b2e406de4dcac5554c8711f3430ffbcc5712ba96e3c"
+    },
+    "blackmatrix7-rule-Shadowrocket-ChinaMobile-ChinaMobile": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMobile/ChinaMobile.list",
+      "sha256": "8aa8078a08299feee81b6927c4f0ac82b91df9c1ed96012dc5c1e78fa324c8fb"
+    },
+    "blackmatrix7-rule-Shadowrocket-DingTalk-DingTalk": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DingTalk/DingTalk.list",
+      "sha256": "7945176ffad14aeaa1d5f2ebfa787e25af9e72dd3950435870ad2bdf8d9f5c2f"
+    },
+    "blackmatrix7-rule-Shadowrocket-DouYin-DouYin": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list",
+      "sha256": "020e742fe4a7084268af6aa52c4153bf5bfd54c4d7a17466f42cd3461609e32a"
+    },
+    "blackmatrix7-rule-Shadowrocket-GaoDe-GaoDe": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/GaoDe/GaoDe.list",
+      "sha256": "f313209d1ffeb36ceaa1713ff4c0b67d219542b157128f9dfa261a979b32e152"
+    },
+    "blackmatrix7-rule-Shadowrocket-Geely-Geely": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Geely/Geely.list",
+      "sha256": "9858d5da581336a0f44b8e0dea87852847e880cee915a76341d60f393a76907a"
+    },
+    "blackmatrix7-rule-Shadowrocket-JingDong-JingDong": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list",
+      "sha256": "0b7a01784c5dfdb1a18d9051f4872c4078c6d5deb6a24f71bfe2bc06d96bb02a"
+    },
+    "blackmatrix7-rule-Shadowrocket-MeiTuan-MeiTuan": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/MeiTuan/MeiTuan.list",
+      "sha256": "5c621dd07aa573761eb712c220631047a3c284297dc8d1830dfa62dab7b2d7ca"
+    },
+    "blackmatrix7-rule-Shadowrocket-NetEaseMusic-NetEaseMusic": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list",
+      "sha256": "da8638a8414224a63dd29d7b45446956ed98c67f88d3b530c80b6c978191fc09"
+    },
+    "blackmatrix7-rule-Shadowrocket-Pinduoduo-Pinduoduo": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list",
+      "sha256": "fcddc414628d2a336b6ef3394eae6d17d6588ad0043ce60486b2c31be57291d0"
+    },
+    "blackmatrix7-rule-Shadowrocket-UC-UC": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/UC/UC.list",
+      "sha256": "5e226148adb275d3ca595bd34f2eef545a0e69f2286dee6687f278a0d6dcd91b"
+    },
+    "blackmatrix7-rule-Shadowrocket-WeChat-WeChat": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list",
+      "sha256": "c48cebb11ccc41a56a22560b83c64bf0efdf9c598128da3771f36fe591a0924e"
+    },
+    "blackmatrix7-rule-Shadowrocket-WeType-WeType": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeType/WeType.list",
+      "sha256": "fe25f3bdc8daa5aef719a8a1ac17ca594daaabfe9e1366dcf8e75d27b29702d7"
+    },
+    "blackmatrix7-rule-Shadowrocket-XianYu-XianYu": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XianYu/XianYu.list",
+      "sha256": "a2b83429d47b68eee901ece76441f0d3cb8ae6ce671f9d7dc9f474777bd2b205"
+    },
+    "blackmatrix7-rule-Shadowrocket-XiaoHongShu-XiaoHongShu": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list",
+      "sha256": "9fb20e80dc0962cfdf410ffbd72d6bf2a6a0ac0d930951880f98164ff229e8ff"
+    },
+    "blackmatrix7-rule-Shadowrocket-XiaoMi-XiaoMi": {
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoMi/XiaoMi.list",
+      "sha256": "0c289d7f1cbcf0e07e4f433aaadf352df47b91eb13af21d1acc7e8e518e65a60"
+    },
+    "v2fly-data-alibaba": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/alibaba",
+      "sha256": "f05b4013437f1805dd8283d5f7b163783551e128719ea097c840e4d4d810fd5c"
+    },
+    "v2fly-data-amap": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/amap",
+      "sha256": "9c9400a024d117fae4f2906286fc7f52e0e86b349af05b4972a490be47db4aee"
+    },
+    "v2fly-data-bilibili": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/bilibili",
+      "sha256": "dbe560654836a368cf5c36ed3962f5fe983f07d0f160aa8ca7e48f63cbec527b"
+    },
+    "v2fly-data-bilibili-cdn": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/bilibili-cdn",
+      "sha256": "13f3606396902e6b405afb3c8741ef3a1b574845f366a9181645acb57e60565d"
+    },
+    "v2fly-data-boc": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/boc",
+      "sha256": "92b78b1bf85be32caaec22668313ef03e9d76bcd3e5c4aaa3e433c2c7ca009ae"
+    },
+    "v2fly-data-category-securities-cn": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/category-securities-cn",
+      "sha256": "a28ca195c5182645e98033d96aece36495be92fd4055995a4f99c59a036f464a"
+    },
+    "v2fly-data-chinamobile": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/chinamobile",
+      "sha256": "08162bce687f9b69f874b5afb1eb1cecbce557b3c65e30dec718f1e2e5e756ed"
+    },
+    "v2fly-data-dingtalk": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/dingtalk",
+      "sha256": "3e067a02023add491519aa6d0d6714b74e073c01e6572de42e01cca69582da45"
+    },
+    "v2fly-data-doubao": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/doubao",
+      "sha256": "b501f28fcaeca55a569c6193d12415ef6d62addbe6f8373799fc5c3005ad5db6"
+    },
+    "v2fly-data-douyin": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/douyin",
+      "sha256": "4cc0f40fdf3b30314ce1739e24dc83ed1fe1df4eed7d43a44466b77a3bbd75db"
+    },
+    "v2fly-data-fqnovel": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/fqnovel",
+      "sha256": "fa0568d86d40cd96ea13b116cd968d98e58b50c4c1c3ab275a446a3b4b64a940"
+    },
+    "v2fly-data-jd": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/jd",
+      "sha256": "da3188b01f825f549c553268d723f025a97969f50ee2a42821409d04e01c7eb5"
+    },
+    "v2fly-data-meituan": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/meituan",
+      "sha256": "83c6d9e67f918bd59080eaa0d8670dbf7009f38f00b5919131e1c473d6385b8f"
+    },
+    "v2fly-data-pinduoduo": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/pinduoduo",
+      "sha256": "34a408854534aecbe62286522b70be5cc6f630bfbaa7023890a2ab2c89f275df"
+    },
+    "v2fly-data-tencent": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/tencent",
+      "sha256": "ca1130b41b2cff11621fbb3ff6978404d72cd03de1dce03877269b2c819db5ea"
+    },
+    "v2fly-data-tencent-games": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/tencent-games",
+      "sha256": "f8825da5e66919a1739664011da28dfb9b3fac4593b57c105b05ffe769142d52"
+    },
+    "v2fly-data-uc": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/uc",
+      "sha256": "e78c4bdd1ecceaa4d3a88724799666545537eab02806df8fc604dae5cd30bfff"
+    },
+    "v2fly-data-xiaohongshu": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xiaohongshu",
+      "sha256": "c02829a3660e6ddcc24e53a86b33735accf42613d493757564b59d217a06065d"
+    },
+    "v2fly-data-xiaomi": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xiaomi",
+      "sha256": "d5cd946c6081d139fc8906e25a1e025afadf70395209b7e29507458b122e019a"
+    },
+    "v2fly-data-xiaomi-iot": {
+      "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/xiaomi-iot",
+      "sha256": "7a8f37cd756155596763bdca5674c1656512002ccc9e51227ed7d1b5318855a8"
+    }
+  }
+}

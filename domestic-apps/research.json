@@ -1,0 +1,25 @@
+{
+  "searched_on": "2026-10-26",
+  "method": "下载公开规则仓库当前分支文件，按截图 App、公司及服务域检索；使用 App Store 查询核实小众 App 身份和官方协议。GitHub API 搜索因未认证限流，改用公开源码归档和 Raw 文件。",
+  "included_repositories": [
+    "https://github.com/blackmatrix7/ios_rule_script",
+    "https://github.com/v2fly/domain-list-community",
+    "https://github.com/ACL4SSR/ACL4SSR",
+    "https://github.com/LM-Firefly/Rules"
+  ],
+  "other_reviewed_sources": [
+    {
+      "url": "https://github.com/SukkaW/Surge/blob/master/Source/non_ip/neteasemusic.conf",
+      "result": "可用域名均已由其他入选源覆盖，未复制或合并此文件；未找到小众 App 的新增专用端点。"
+    },
+    {
+      "url": "https://github.com/LOWERTOP/Shadowrocket-First",
+      "result": "核对现有欧易规则来源；按用户选择不纳入本合集，保留原配置。"
+    },
+    {
+      "url": "https://github.com/Tasshack/dreame-vacuum/blob/master/custom_components/dreame_vacuum/dreame/protocol.py",
+      "result": "作为追觅客户端协议依赖的辅助核对，不合并其代码。"
+    }
+  ],
+  "scope_limit": "没有互联网全量搜索索引或真机连接记录；该记录只证明列出的来源已核查，不证明其他规则不存在。"
+}

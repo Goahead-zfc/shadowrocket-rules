@@ -1,0 +1,27 @@
+name: Verify domestic app rules
+
+on:
+  push:
+    paths:
+      - 'domestic-apps/**'
+      - 'domestic-apps-ruleset.list'
+      - 'scripts/build_domestic_apps.py'
+      - 'tests/test_domestic_apps.py'
+      - 'goahead-shadowrocket.conf'
+      - '.github/workflows/domestic-apps-check.yml'
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python3 scripts/build_domestic_apps.py --check
+      - run: python3 -m unittest discover -s tests -v

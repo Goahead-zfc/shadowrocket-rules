@@ -1,0 +1,213 @@
+[
+  {
+    "app": "华宝智投-专注智能交易",
+    "bundle_id": "com.touker.HBStockWarning",
+    "app_store_url": "https://apps.apple.com/cn/app/id993077954",
+    "seller": "HWABAO SECURITIES CO.,LTD",
+    "seller_url": null,
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "九号出行",
+    "bundle_id": "cn.ninebot.segway",
+    "app_store_url": "https://apps.apple.com/cn/app/id1458698038",
+    "seller": "Ninebot (Beijing) Tech Co., Ltd.",
+    "seller_url": null,
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "ToDesk远程控制",
+    "bundle_id": "com.youqu.ios.ToDesk",
+    "app_store_url": "https://apps.apple.com/cn/app/id1519407428",
+    "seller": "Hainan Youqu Technology Co., Ltd.",
+    "seller_url": null,
+    "published_urls": [
+      "https://www.todesk.com/",
+      "https://todesk.com/licence.html",
+      "https://www.todesk.com/privacy.html"
+    ],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "iCost记账-快速简洁好用的记账理财助手&记账软件",
+    "bundle_id": "com.gostraight.smallAccountBook",
+    "app_store_url": "https://apps.apple.com/cn/app/id1484262528",
+    "seller": "Guangzhou Quji Technology Co., Ltd.",
+    "seller_url": null,
+    "published_urls": [
+      "https://help.icostapp.com/guide/law/term.html",
+      "https://help.icostapp.com/guide/law/privacy.html"
+    ],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "微信输入法",
+    "bundle_id": "com.tencent.wetype",
+    "app_store_url": "https://apps.apple.com/cn/app/id1618175312",
+    "seller": "Tencent Technology (Shenzhen) Company Limited",
+    "seller_url": null,
+    "published_urls": [
+      "https://wetype.weixin.qq.com/web/privacy?platform=ios"
+    ],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "领克",
+    "bundle_id": "com.lynkco.customer",
+    "app_store_url": "https://apps.apple.com/cn/app/id1305517667",
+    "seller": "LYNK & CO Automobiles Sales Co., Ltd.",
+    "seller_url": "https://www.lynkco.com.cn/",
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "像素蛋糕 - 专业级AI修图软件",
+    "bundle_id": "com.xiangtian.pixcakeiphone",
+    "app_store_url": "https://apps.apple.com/cn/app/id6743614900",
+    "seller": "Xiamen Truesight Technology Co., Ltd",
+    "seller_url": "https://www.pixcakeai.com/mobile?source=ios",
+    "published_urls": [
+      "https://api.pixcakeai.com/static/protocol/cake_privacy.html",
+      "https://download.pixcakeai.com/server/static/protocol/cake_protocol.html"
+    ],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "江苏智慧人社",
+    "bundle_id": "com.jiangshuzhirenshe.iOS.App",
+    "app_store_url": "https://apps.apple.com/cn/app/id1463539099",
+    "seller": "Jiangsu Human Resources and Social Security Information Center",
+    "seller_url": null,
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "江苏·农商行",
+    "bundle_id": "com.jsnx.JSNXMobileBank",
+    "app_store_url": "https://apps.apple.com/cn/app/id555257605",
+    "seller": "Jiangsu Rural Commercial United Bank",
+    "seller_url": "http://www.js96008.com",
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "DREAME",
+    "bundle_id": "com.dreame.smarthome",
+    "app_store_url": "https://apps.apple.com/cn/app/id1564419343",
+    "seller": "Dreame Innovation Technology (Suzhou) Co., Ltd.",
+    "seller_url": null,
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "华安基金",
+    "bundle_id": "cn.com.huaan.iphone",
+    "app_store_url": "https://apps.apple.com/cn/app/id501236714",
+    "seller": "Hua An Fund Management Co.,Ltd.",
+    "seller_url": null,
+    "published_urls": [],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "ES文件浏览器-ZIP RAR 7Z 解压和压缩",
+    "bundle_id": "com.doglobal.ESFileExplorer",
+    "app_store_url": "https://apps.apple.com/cn/app/id1441621965",
+    "seller": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
+    "seller_url": "http://www.estrongs.com/",
+    "published_urls": [
+      "http://esfile.do-global.com/privacystatement/cn/index.htm",
+      "https://page.xdplt.com/es/ESFileExplorerTermsofService.html",
+      "http://www.estrongs.com"
+    ],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "app": "红果短剧 - 海量热门短剧随心看",
+    "bundle_id": "com.phoenix.video",
+    "app_store_url": "https://apps.apple.com/cn/app/id6451407032",
+    "seller": "Beijing Bimo Liuxiang Technology Co., Ltd.",
+    "seller_url": "https://novelquickapp.com/hongguo",
+    "published_urls": [
+      "https://reading.snssdk.com/wap-hongguo/dr-privacy-v3.html",
+      "https://reading.snssdk.com/wap-hongguo/dr-vip-protocal-v2.html",
+      "https://reading.snssdk.com/wap-hongguo/dr-auto-renewal.html"
+    ],
+    "retrieved_on": "2026-10-26",
+    "note": "官方商店元数据用于身份与域名证据；不能证明这些 URL 是全部运行时端点。"
+  },
+  {
+    "document": "https://rs.jshrss.jiangsu.gov.cn/mobile/legal",
+    "retrieved_on": "2026-10-26",
+    "sha256_of_retrieved_document": "a51750d562da96f7b67f54d9855d41784a38e79e4d901d931be97f387f41237c",
+    "published_urls": [
+      "https://m.jszhwlpt.com/apage/pages/serviceArticle/index",
+      "https://opendocs.alipay.com/open/042n3d?pathHash=56bd76e0&ref=api",
+      "https://ssc.mohrss.gov.cn/protocol-h5/index.html#/protocol/1?client=1",
+      "https://syly.lianchuanghj.com/syjs-client-newh5/#/agreementDetail?id=21",
+      "https://wukongdoc.tingyun.com/ty-doc/docs/doc/RUM/privacy/",
+      "https://zhuanti.chebada.com/act/h5/6b153c3f2fb93f7cd6a2ee2c0cfa47d3/",
+      "https://zstp.njrsxxzx.cn:8582/nj-knowledge-mobile-ui-stream/#/PrivacyPolicy"
+    ],
+    "note": "只记录证据与公开链接，不自动把隐私政策中的所有 SDK 厂商官网当作运行时规则。"
+  },
+  {
+    "document": "https://protocol.dreame.tech/p2177/zh/general_privacyPolicy.html",
+    "retrieved_on": "2026-10-26",
+    "sha256_of_retrieved_document": "cea5958c8da741c16944144e2c86dd9778f0053a4d219bfbf57b6120026e343d",
+    "published_urls": [
+      "https://cn.iot.dreame.tech:8080/zh/permission.html",
+      "https://cn.iot.dreame.tech:8080/zh/sdk.html",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_18220067859621755595296086",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_21167217054211755595280047",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_40115909443161755595240956",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_54205915756921755595287435",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_59365787845911755595254613",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_6379186029741755595224485",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_91375559151491755595273116",
+      "https://oss.iot.dreame.tech/pb/htmlDoc/000000/ali_dreame/resource/0eec4cb52120e53d6aa43bd5287306c1.html#h_95674898748731755595264236",
+      "https://www.dreame.tech",
+      "https://www.dreame.tech/"
+    ],
+    "note": "只记录证据与公开链接，不自动把隐私政策中的所有 SDK 厂商官网当作运行时规则。"
+  },
+  {
+    "document": "https://api.pixcakeai.com/static/protocol/cake_privacy.html",
+    "retrieved_on": "2026-10-26",
+    "sha256_of_retrieved_document": "17a48ae184621a8f24ebe3d3c33c8249024ca9490c296dbeb8d4366ecf22c7c6",
+    "published_urls": [],
+    "note": "只记录证据与公开链接，不自动把隐私政策中的所有 SDK 厂商官网当作运行时规则。"
+  },
+  {
+    "document": "https://help.icostapp.com/guide/law/sdk.html",
+    "retrieved_on": "2026-10-26",
+    "sha256_of_retrieved_document": "a7c28178e716e698ee33ee74e3f024d45d1c80e940199de6b23934f59ad7febd",
+    "published_urls": [
+      "http://www.w3.org/2000/svg",
+      "https://cdn.deepseek.com/policies/zh-CN/deepseek-privacy-policy",
+      "https://cdn.deepseek.com/policies/zh-CN/deepseek-privacy-policy.html",
+      "https://cloud.tencent.com/document/product/436/74059",
+      "https://firebase.google.com/support/privacy?hl=zh-cn",
+      "https://help.icostapp.com/assets/img/icon.1b66db68.png",
+      "https://privacy.qq.com/policy/tencent-privacypolicy",
+      "https://render.alipay.com/p/c/k2cx0tg8",
+      "https://www.apple.com/legal/privacy/szh/",
+      "https://www.qiniu.com/agreements/privacy-right",
+      "https://www.volcengine.com/docs/6561/108794"
+    ],
+    "note": "只记录证据与公开链接，不自动把隐私政策中的所有 SDK 厂商官网当作运行时规则。"
+  }
+]
