@@ -2,21 +2,17 @@
 
 适用于 Shadowrocket 的 Claude、社交应用规则与国内 App 直连合集。
 
-## Claude App / 网页 / API 规则
+## Claude App / 网页 / API 完整规则
 
-新增详细的 Claude 主规则，覆盖服务域名、用户内容、Artifacts 与 MCP 组件，另提供可选的字体/脚本/验证码及第三方登录补充。详细范围、来源、接入和排查见 [Claude 使用说明](claude/README.md)。
+只需要添加这一个完整规则链接，已合并 Claude 核心服务、用户内容、Artifacts、MCP、验证码、字体/脚本 CDN 和 Google / Apple 登录，共 33 条有效规则。
 
-| 规则 | Raw 链接 | 建议 |
-| --- | --- | --- |
-| 主规则（19 条） | [claude-ruleset.list](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list) | 推荐启用 |
-| 功能补充（8 条） | [claude-extra-ruleset.list](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-extra-ruleset.list) | 可选共享服务 |
-| 登录补充（6 条） | [claude-login-ruleset.list](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-login-ruleset.list) | 按登录方式启用 |
-
-完整配置已将旧 Claude 引用替换为本仓库主规则，沿用 `🇺🇸 美国节点`，两份可选补充默认注释。
+[Claude 完整规则链接](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list)
 
 ```ini
 RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list,🇺🇸 美国节点,update-interval=86400
 ```
+
+仓库完整配置已使用这个单链接，沿用 `🇺🇸 美国节点`。已使用完整配置的设备更新配置和规则集即可。共享验证码、CDN 和身份服务主机也会影响其他 App 对相同主机的分流；具体范围、来源和验证方法见 [Claude 使用说明](claude/README.md)。旧补充文件仅保留兼容，不需要另外添加。
 
 ## 国内 App 直连合集
 
