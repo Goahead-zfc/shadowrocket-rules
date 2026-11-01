@@ -17,10 +17,10 @@ https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-rul
 在配置的 `[Rule]` 中添加下面一行，策略名称换成自己已有的节点或策略组：
 
 ```ini
-RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list,🇺🇸 美国节点,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list,🤖 Claude,update-interval=86400
 ```
 
-本仓库完整配置已使用这个单链接，沿用美国节点策略。已使用该配置的设备更新配置和规则集即可，全局路由选择“配置”。旧补充文件仅为兼容保留，不需要另外添加。
+本仓库完整配置已使用这个单链接，并提供独立的 `🤖 Claude` 手动选择分组。分组与 GPT、Gemini 相同，使用 `select,LOCAL-SERVERS,use=true`，默认节点为 `NODE-F-HYSTERIA2-SALAMANDER-2087`。已使用该配置的设备更新配置和规则集即可，全局路由选择“配置”。旧补充文件仅为兼容保留，不需要另外添加。
 
 规则放在可能抢先匹配的广告、Google、Apple、AI 通用规则及最终兜底之前。共享验证码、CDN 和身份服务也会影响其他 App 对相同主机的分流。建议 Claude 相关请求使用同一个固定出口；测速组可能切换，需要时在设备上选择具体节点。
 
