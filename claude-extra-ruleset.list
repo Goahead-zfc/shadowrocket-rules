@@ -1,0 +1,24 @@
+# NAME: Claude Extra - OPTIONAL SHARED SERVICES
+# TARGET: Shadowrocket RULE-SET
+# UPDATED: 2026-11-01
+# ACTIVE RULES: 8
+# These hosts are shared: other apps using them follow the same policy.
+# Source and usage: claude/README.md
+
+# Cloudflare Turnstile: optional troubleshooting for verification flows.
+DOMAIN,challenges.cloudflare.com
+
+# Optional fonts used by some Artifacts.
+# Official reference: https://code.claude.com/docs/en/network-config
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
+
+# External JavaScript/CSS library hosts documented for Artifacts.
+DOMAIN,cdnjs.cloudflare.com
+DOMAIN,cdn.jsdelivr.net
+DOMAIN,cdn.tailwindcss.com
+DOMAIN,code.jquery.com
+DOMAIN,unpkg.com
+
+# Legacy community entry for analytics; inactive and not needed for core chat.
+# DOMAIN,cdn.usefathom.com

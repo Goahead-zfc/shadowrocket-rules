@@ -1,6 +1,22 @@
 # Shadowrocket Rules
 
-适用于 Shadowrocket 的社交应用规则与国内 App 直连合集。
+适用于 Shadowrocket 的 Claude、社交应用规则与国内 App 直连合集。
+
+## Claude App / 网页 / API 规则
+
+新增详细的 Claude 主规则，覆盖服务域名、用户内容、Artifacts 与 MCP 组件，另提供可选的字体/脚本/验证码及第三方登录补充。详细范围、来源、接入和排查见 [Claude 使用说明](claude/README.md)。
+
+| 规则 | Raw 链接 | 建议 |
+| --- | --- | --- |
+| 主规则（19 条） | [claude-ruleset.list](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list) | 推荐启用 |
+| 功能补充（8 条） | [claude-extra-ruleset.list](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-extra-ruleset.list) | 可选共享服务 |
+| 登录补充（6 条） | [claude-login-ruleset.list](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-login-ruleset.list) | 按登录方式启用 |
+
+完整配置已将旧 Claude 引用替换为本仓库主规则，沿用 `🇺🇸 美国节点`，两份可选补充默认注释。
+
+```ini
+RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list,🇺🇸 美国节点,update-interval=86400
+```
 
 ## 国内 App 直连合集
 

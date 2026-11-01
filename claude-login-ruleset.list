@@ -1,0 +1,17 @@
+# NAME: Claude Login - OPTIONAL SHARED AUTHENTICATION
+# TARGET: Shadowrocket RULE-SET
+# UPDATED: 2026-11-01
+# ACTIVE RULES: 6
+# Common Google/Apple identity endpoints, not Claude-exclusive domains.
+# Enable only if needed. Other apps using these hosts are affected too.
+# The exact login flow can require additional hosts; this is not a full IdP allowlist.
+
+# Google account sign-in.
+DOMAIN,accounts.google.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN,www.googleapis.com
+
+# Sign in with Apple.
+DOMAIN,appleid.apple.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,idmsa.apple.com
