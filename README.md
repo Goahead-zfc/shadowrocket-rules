@@ -9,10 +9,10 @@
 [Claude 完整规则链接](https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list)
 
 ```ini
-RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list,🇺🇸 美国节点,update-interval=86400
+RULE-SET,https://raw.githubusercontent.com/Goahead-zfc/shadowrocket-rules/main/claude-ruleset.list,🤖 Claude,update-interval=86400
 ```
 
-仓库完整配置已使用这个单链接，沿用 `🇺🇸 美国节点`。已使用完整配置的设备更新配置和规则集即可。共享验证码、CDN 和身份服务主机也会影响其他 App 对相同主机的分流；具体范围、来源和验证方法见 [Claude 使用说明](claude/README.md)。旧补充文件仅保留兼容，不需要另外添加。
+仓库完整配置已使用这个单链接，并新增独立的 `🤖 Claude` 代理分组。分组与 GPT / Gemini 相同，采用 `select,LOCAL-SERVERS,use=true`，默认选择 `NODE-F-HYSTERIA2-SALAMANDER-2087`。已使用完整配置的设备更新配置和规则集即可。共享验证码、CDN 和身份服务主机也会影响其他 App 对相同主机的分流；具体范围、来源和验证方法见 [Claude 使用说明](claude/README.md)。旧补充文件仅保留兼容，不需要另外添加。
 
 ## 国内 App 直连合集
 
