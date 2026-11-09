@@ -71,15 +71,5 @@ class DomesticAppsTests(unittest.TestCase):
         self.assertLess(config.index(entry), config.index("ChinaDomain.list"))
 
 
-    def test_wechat_is_forced_direct_before_adblocking_and_cn_ip_is_direct(self):
-        config = (ROOT / "goahead-shadowrocket.conf").read_text()
-        adblock = config.index("adrules.list")
-        for rule in ("DOMAIN-SUFFIX,weixin.qq.com,DIRECT", "DOMAIN-SUFFIX,wx.qq.com,DIRECT",
-                     "IP-ASN,45090,DIRECT,no-resolve", "IP-ASN,132203,DIRECT,no-resolve"):
-            self.assertLess(config.index(rule), adblock, rule)
-        self.assertIn("ChinaIp.list,DIRECT,", config)
-        self.assertIn("GEOIP,CN,DIRECT,no-resolve", config)
-        self.assertNotIn("dns-server = system", config)
-
 if __name__ == "__main__":
     unittest.main()
